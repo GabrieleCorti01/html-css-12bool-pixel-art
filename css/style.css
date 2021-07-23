@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[class^="col"]{
+    border: 1px solid black;
+    background-color: white;
+    height: 100px;
+    line-height: 100px;
+}
+
+.black{
+    background-color: black;
+}
+
+.purple{
+    background-color: rgb(250, 36, 107);
+}
+
+.white{
+    background-color: white;
+}
+
+/* SBRILLUCCICHIO */
+.gold{
+    background-color: gold;
+}
